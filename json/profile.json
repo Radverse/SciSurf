@@ -1,0 +1,2415 @@
+{
+    "englishCardInfo": [
+        {
+            "id": "1",
+            "name": "Classification, Possessives & Collocation",
+            "cardUrl": "s-card-cla",
+            "color": "#02367B",
+            "identifier": "cla",
+            "autoplayInterval": 5000,
+            "shortName": "Cl",
+            "levels": "15",
+            "author": "inktech"
+        },
+        {
+            "id": "2",
+            "name": "Adjectives & Adverbs",
+            "cardUrl": "s-card-adv",
+            "color": "#006CA5",
+            "identifier": "adv",
+            "autoplayInterval": 10000,
+            "shortName": "Aj",
+            "levels": "15",
+            "author": "inktech"
+        },
+        {
+            "id": "3",
+            "name": "Tenses",
+            "cardUrl": "s-card-ten",
+            "color": "#0496C7",
+            "identifier": "ten",
+            "autoplayInterval": 7000,
+            "shortName": "Te",
+            "levels": "15",
+            "author": "inktech"
+        },
+        {
+            "id": "4",
+            "name": "Synonyms & Antonyms",
+            "cardUrl": "s-card-syn",
+            "color": "#04BADE",
+            "identifier": "syn",
+            "autoplayInterval": 4000,
+            "shortName": "Sy",
+            "levels": "15",
+            "author": "inktech"
+        },
+        {
+            "id": "5",
+            "name": "Verbs",
+            "cardUrl": "s-card-ver1",
+            "color": "#55E2E9",
+            "identifier": "ver",
+            "autoplayInterval": 10000,
+            "shortName": "Ve",
+            "levels": "15",
+            "author": "inktech"
+        },
+        {
+            "id": "6",
+            "name": "Articles, Prepositions & Conjunction",
+            "cardUrl": "s-card-art",
+            "color": "#480355",
+            "identifier": "art",
+            "autoplayInterval": 7000,
+            "shortName": "Ar",
+            "levels": "15",
+            "author": "inktech"
+        },
+        {
+            "id": "7",
+            "name": "Noun",
+            "cardUrl": "s-card-nou",
+            "color": "#0a81d1",
+            "identifier": "nou",
+            "autoplayInterval": 5000,
+            "shortName": "No",
+            "levels": "15"
+        },
+        {
+            "id": "8",
+            "name": "Spelling",
+            "cardUrl": "s-card-spe",
+            "color": "#21897e",
+            "identifier": "spe",
+            "autoplayInterval": 4000,
+            "shortName": "Sp",
+            "levels": "15",
+            "author": "inktech"
+        },
+        {
+            "id": "9",
+            "name": "Pronoun",
+            "cardUrl": "s-card-pro",
+            "color": "#482121",
+            "identifier": "pro",
+            "autoplayInterval": 5000,
+            "shortName": "Pr",
+            "levels": "15",
+            "author": "inktech"
+        },
+        {
+            "id": "10",
+            "name": "Idioms, Phrases & Proverbs",
+            "cardUrl": "s-card-idi",
+            "color": "#025464",
+            "identifier": "idi",
+            "autoplayInterval": 7000,
+            "shortName": "Id",
+            "levels": "15",
+            "author": "inktech"
+        }
+    ],
+    "mathCardInfo": [
+        [
+            {
+                "name": "Integer",
+                "info": "Addition, Subtraction, Multiplication, Division and Root.",
+                "data": [
+                    {
+                        "id": 1,
+                        "name": "Addition",
+                        "info": "This option takes you from the beginners levels of Interger Addition to difficult levels. This helps to boost your speed and accuracy in Integer Addition."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Subtraction",
+                        "info": "This option takes you from the beginners levels of Interger Subtraction to difficult levels. This helps to boost your speed and accuracy in Integer Subtraction."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Multiplication",
+                        "info": "This option takes you from the beginners levels of Interger Multiplication to difficult levels. This helps to boost your speed and accuracy in Integer Multiplication."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Division",
+                        "info": "This option takes you from the beginners levels of Interger Division to difficult levels. This helps to boost your speed and accuracy in Integer Division."
+                    },
+                    {
+                        "id": 5,
+                        "name": "Root",
+                        "info": "This option takes you from the beginners levels of Interger Roots to difficult levels. This helps to boost your speed and accuracy in Integer Roots."
+                    }
+                ],
+                "color": "#36454F",
+                "shortName": "In",
+                "author": "inktech"
+            },
+            {
+                "name": "Decimal",
+                "info": "Addition, Subtraction, Multiplication and Division.",
+                "data": [
+                    {
+                        "id": 1,
+                        "name": "Addition",
+                        "info": "This option takes you from the beginners levels of Decimal Addition to difficult levels. This helps to boost your speed and accuracy in Decimal Addition."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Subtraction",
+                        "info": "This option takes you from the beginners levels of Decimal Subtraction to difficult levels. This helps to boost your speed and accuracy in Decimal Subtraction."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Multiplication",
+                        "info": "This option takes you from the beginners levels of Decimal Multiplication to difficult levels. This helps to boost your speed and accuracy in Decimal Multiplication."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Division",
+                        "info": "This option takes you from the beginners levels of Decimal Division to difficult levels. This helps to boost your speed and accuracy in Decimal Division."
+                    }
+                ],
+                "color": "#483C32",
+                "shortName": "De",
+                "author": "inktech"
+            },
+            {
+                "name": "Fraction",
+                "info": "Addition, Subtraction and Multiplication.",
+                "data": [
+                    {
+                        "id": 1,
+                        "name": "Addition",
+                        "info": "This option takes you from the beginners levels of Fraction Addition to difficult levels. This helps to boost your speed and accuracy in Integer Addition."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Subtraction",
+                        "info": "This option takes you from the beginners levels of Fraction Subtraction to difficult levels. This helps to boost your speed and accuracy in Integer Addition."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Multiplication",
+                        "info": "This option takes you from the beginners levels of Fraction Multiplication to difficult levels. This helps to boost your speed and accuracy in Integer Addition."
+                    }
+                ],
+                "color": "#008080",
+                "shortName": "Fr",
+                "author": "inktech"
+            },
+            {
+                "name": "Mixed",
+                "info": "Standard and Professional. ",
+                "data": [
+                    {
+                        "id": 1,
+                        "name": "Standard",
+                        "info": "This option takes you from the beginners levels of the standard mixed questions on integers, Decimals, and Fractions to more difficult levels, which improves your Knowledge and speed."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Professional",
+                        "info": "This option takes you from difficult levels of the standard mixed questions on integers, Decimals, and Fractions to complex levels, which improves your Knowledge and accuracy."
+                    }
+                ],
+                "color": "#EE4B2B",
+                "shortName": "Mi",
+                "author": "inktech"
+            },
+            {
+                "name": "Algebra",
+                "info": "Contains Standard and Professional.",
+                "data": [
+                    {
+                        "id": 1,
+                        "name": "Standard",
+                        "info": "This option takes you from the beginners levels of the standard mixed questions on Algebra linear equations to more difficult levels, which improves your Knowledge and speed."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Professional",
+                        "info": "This option takes you from difficult levels of the standard mixed questions on Algebra linear equations to  complex levels, which improves your Knowledge and accuracy."
+                    }
+                ],
+                "color": "#9395D3",
+                "shortName": "Al",
+                "author": "inktech"
+            }
+        ]
+    ],
+    "englishQuizProfile": {
+        "cla": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "adv": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "ten": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "syn": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "ver": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "art": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "nou": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "spe": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "pro": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "idi": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        }
+    },
+    "mathQuizProfile": {
+        "Integer": {
+            "Addition": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Subtraction": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Multiplication": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Division": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Root": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            }
+        },
+        "Decimal": {
+            "Addition": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Subtraction": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Multiplication": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Division": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            }
+        },
+        "Fraction": {
+            "Addition": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Subtraction": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Multiplication": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            }
+        },
+        "Mixed": {
+            "Standard": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Professional": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            }
+        },
+        "Algebra": {
+            "Standard": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Professional": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            }
+        },
+        "SciSurf": {
+            "Standard": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            },
+            "Professional": {
+                "array": [],
+                "length": 10,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "6",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "7",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "8",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "9",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "10",
+                        "length": "15",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            }
+        }
+    },
+    "author": [
+        {
+            "name": "Engr. Osasere Destiny",
+            "fbLink": "https://",
+            "igLink": "https",
+            "ytlink": "https",
+            "fbName": "Osasere Destiny",
+            "color": "darkblue",
+            "specilization": "Structural Engineer"
+        },
+        {
+            "name": "Engr. Kester Osaro",
+            "fbLink": "https://",
+            "igLink": "https",
+            "ytlink": "https",
+            "fbName": "Kester Osaro",
+            "color": "red",
+            "specilization": "Structural Engineer"
+        },
+        {
+            "name": "Engr. John Doe",
+            "fbLink": "https://",
+            "igLink": "https",
+            "ytlink": "https",
+            "fbName": "John Doe",
+            "color": "yellow",
+            "specilization": "Student"
+        }
+    ]
+}
