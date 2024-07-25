@@ -116,7 +116,18 @@
             "color": "pink",
             "identifier": "con",
             "autoplayInterval": 7000,
-            "shortName": "ICo",
+            "shortName": "Co",
+            "levels": "15",
+            "author": "inktech"
+        },
+        {
+            "id": "12",
+            "name": "Vulture 1",
+            "cardUrl": "s-card-idi",
+            "color": "green",
+            "identifier": "vul",
+            "autoplayInterval": 7000,
+            "shortName": "Vu",
             "levels": "15",
             "author": "inktech"
         }
@@ -1078,6 +1089,117 @@
                 },
                 {
                     "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
+        },
+        "vul": {
+            "array": [],
+            "length": 10,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "8",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "9",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "10",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "11",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "12",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "13",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "14",
+                    "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "15",
                     "length": "15",
                     "percentage": "0",
                     "star": "0",
