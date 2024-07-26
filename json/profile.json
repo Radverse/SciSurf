@@ -273,7 +273,7 @@
     "englishQuizProfile": {
         "cla": {
             "array": [],
-            "length": 10,
+            "length": 11,
             "levels": [
                 {
                     "id": "1",
@@ -341,6 +341,13 @@
                 {
                     "id": "10",
                     "length": "15",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "11",
+                    "length": "16",
                     "percentage": "0",
                     "star": "0",
                     "isOpen": "false"
