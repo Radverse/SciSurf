@@ -251,7 +251,7 @@
             "author": "SciSurf"
         },
         {
-            "name": "WordProblem",
+            "name": "WorldProblem",
             "info": "Contains Standard only.",
             "data": [
                 {
@@ -2290,7 +2290,7 @@
                 ]
             }
         },
-        "WordProblem": {
+        "WorldProblem": {
             "Standard": {
                 "array": [],
                 "length": 5,
