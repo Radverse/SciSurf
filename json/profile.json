@@ -249,6 +249,20 @@
             "color": "#003652",
             "shortName": "Al",
             "author": "SciSurf"
+        },
+        {
+            "name": "Word_Problem",
+            "info": "Contains Standard only.",
+            "data": [
+                {
+                    "id": 1,
+                    "name": "Standard",
+                    "info": "This option takes you from the beginners levels of the Captain Dominion World Problems Questions to more difficult levels, which improves your Knowledge, speed and accuracy."
+                }
+            ],
+            "color": "#003652",
+            "shortName": "Al",
+            "author": "Captain Dominion"
         }
     ],
     "englishQuizProfile": {
@@ -2243,7 +2257,7 @@
         "SciSurfing": {
             "Standard": {
                 "array": [],
-                "length": 10,
+                "length": 4,
                 "levels": [
                     {
                         "id": "1",
@@ -2275,6 +2289,49 @@
                     }
                 ]
             }
+        },
+        "Word_Problem": {
+            "Standard": {
+                "array": [],
+                "length": 5,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            }
         }
     },
     "author": [
@@ -2286,7 +2343,7 @@
         },
         {
             "name": "Engr. Kester Osaro",
-            "fbLink": "ttps://www.facebook.com/profile.php?id=61559876475276",
+            "fbLink": "https://www.facebook.com/profile.php?id=61559876475276",
             "color": "red",
             "specilization": "Civil Engineer"
         },
@@ -2295,6 +2352,12 @@
             "fbLink": "https://www.facebook.com/profile.php?id=100078196057930",
             "color": "yellow",
             "specilization": "Structural Engineer"
+        },
+        {
+            "name": "Engr. Captain Dominion",
+            "fbLink": "https://www.facebook.com/profile.php?id=61563367082570",
+            "color": "yellow",
+            "specilization": "Electrical Engineer"
         }
     ]
 }

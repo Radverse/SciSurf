@@ -18325,867 +18325,519 @@
                     ],
                     "ans": "35"
                 }
+            ]
+        }
+    },
+    "Word_Problem": {
+        "Standard": {
+            "1": [
+                {
+                    "q": "Pick the odd one out from the sequence",
+                    "opt": [
+                        "11",
+                        "3",
+                        "5",
+                        "9"
+                    ],
+                    "ans": "9"
+                },
+                {
+                    "q": "One third of one third of two fifth of a number is 20. what will be 20% of that number.",
+                    "opt": [
+                        "80",
+                        "90",
+                        "180",
+                        "100"
+                    ],
+                    "ans": "90"
+                },
+                {
+                    "q": "the arithmetic mean between a and 20 is 40, the value of 'a' is?",
+                    "opt": [
+                        "40",
+                        "50",
+                        "60",
+                        "70"
+                    ],
+                    "ans": "60"
+                },
+                {
+                    "q": "The first term of the geometric progression 1, 5, 10, 15 ........, is",
+                    "opt": [
+                        "0",
+                        "5",
+                        "15",
+                        "1"
+                    ],
+                    "ans": "1"
+                },
+                {
+                    "q": "The first, second and third term of a proportion are 15, 6, 2.4. The fourth term is?",
+                    "opt": [
+                        "0.96",
+                        "1.96",
+                        "1.69",
+                        "1.08"
+                    ],
+                    "ans": "0.96"
+                },
+                {
+                    "q": "In 3 years, Dominion father age twice as dominion. Two years ago, Dominion mother age twice as dominion. If Dominion is 22 years old in eight years from now, what is the age of Dominion mother and father?",
+                    "opt": [
+                        "31 & 26",
+                        "26 & 31",
+                        "41 & 36",
+                        "36 & 41"
+                    ],
+                    "ans": "26 & 31"
+                },
+                {
+                    "q": "The ages of Destiny and dominion are in the ratio of 2:3. After 6 years, the ratio of their ages will become 3:4. find the present age of Dominion?",
+                    "opt": [
+                        "12",
+                        "14",
+                        "16",
+                        "18"
+                    ],
+                    "ans": "18"
+                },
+                {
+                    "q": "Today is friday, after 133 days, it will be which day?",
+                    "opt": [
+                        "Friday",
+                        "Monday",
+                        "Wednesday",
+                        "Thursday"
+                    ],
+                    "ans": "Friday"
+                },
+                {
+                    "q": "Dominion arrange his physics, chemistry, Mathematics, biology and Geography books in a shelf. In how many ways can you do it?",
+                    "opt": [
+                        "100",
+                        "720",
+                        "24",
+                        "120"
+                    ],
+                    "ans": "120"
+                },
+                {
+                    "q": "The area of  a rectangle is 450 meter square. If the length is 20% more than the breadth. What is the breadth of the rectangular field?",
+                    "opt": [
+                        "20.00",
+                        "20.36",
+                        "19.36",
+                        "19.00"
+                    ],
+                    "ans": "19.36"
+                }
+            ],
+            "2": [
+                {
+                    "q": "The volume of a cube is 729 cubic meter. find its surface area?",
+                    "opt": [
+                        "243 meter square",
+                        "486 meter square",
+                        "54 meter square",
+                        "81 meter square"
+                    ],
+                    "ans": "243 meter square"
+                },
+                {
+                    "q": "The electrical engineering department at UNIBEN consists of 36 students. In this department, the number of female students, and the number of indigenous students is 3x the number of students from other tribe: Quantity A = The number of students who are from other tribes; Quantity B = The number of female students. Which of the following options is true?",
+                    "opt": [
+                        "Quantity A is greater",
+                        "Quantity B is greater",
+                        "The relationship cannot be determined",
+                        "none of the above"
+                    ],
+                    "ans": "Quantity B is greater"
+                },
+                {
+                    "q": "Every five minutes, a new born baby enters the world in Nigeria. What is the annual number of babies born in Nigeria? ",
+                    "opt": [
+                        "150,120",
+                        "105,120",
+                        "100,510",
+                        "103,555"
+                    ],
+                    "ans": "105,120"
+                },
+                {
+                    "q": "If the largest side of a triangle is denoted as A, with the other two sides denoted as B and C. What is the relationship between them?",
+                    "opt": [
+                        "A + B",
+                        "A = B + C",
+                        "A > |B - C|",
+                        "|B - C|"
+                    ],
+                    "ans": "A > |B - C|"
+                },
+                {
+                    "q": "Line A is represented by the following equation: 10y + 20x = 50: Quantity A = The y-intercept of line A, Quantity B = The slope of line A. Which of the following is option is true.",
+                    "opt": [
+                        "Quantity A is greater",
+                        "Quantity B is greater",
+                        "the two quantities are equal",
+                        "None of the above"
+                    ],
+                    "ans": "Quantity A is greater"
+                },
+                {
+                    "q": "1/25^n. for which value of n is the above statement true?",
+                    "opt": [
+                        "-1/2",
+                        "1/2",
+                        "1",
+                        "0"
+                    ],
+                    "ans": "-1/2"
+                },
+                {
+                    "q": "What is the total length around the boundary of a rectangle that has two sides measuring 4cm and two sides measuring 6cm?",
+                    "opt": [
+                        "20cm",
+                        "10cm",
+                        "12cm",
+                        "30cm"
+                    ],
+                    "ans": "20cm"
+                },
+                {
+                    "q": "10^x = 10,000,000,000; Quantity A = x; Quantity B = 12",
+                    "opt": [
+                        "Quantity A is greater",
+                        "Quantity B is greater",
+                        "the two quantities are equal",
+                        "None of the above"
+                    ],
+                    "ans": "Quantity B is greater"
+                },
+                {
+                    "q": "A X B = (AB)^2 + (A + B)^2; Quantity A = 2 x 5; Quantity B = 150",
+                    "opt": [
+                        "Quantity A is greater",
+                        "Quantity B is greater",
+                        "the two quantities are equal",
+                        "None of the above"
+                    ],
+                    "ans": "Quantity B is greater"
+                },
+                {
+                    "q": "If one integer y, is a multiple of three and the product of two integers x and y, results in value less than 82. What is the maximum value that x can have?",
+                    "opt": [
+                        "13",
+                        "27",
+                        "30",
+                        "34"
+                    ],
+                    "ans": "27"
+                }
+            ],
+            "3": [
+                {
+                    "q": "if Log(3) + Log(3x + 1) = Log(x + 3) + Log(6), Then x is equal to?",
+                    "opt": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "ans": "5"
+                },
+                {
+                    "q": "6^(m) = 46656, what is the value of 6^(m-2)",
+                    "opt": [
+                        "7776",
+                        "3888",
+                        "1276",
+                        "1000"
+                    ],
+                    "ans": "1276"
+                },
+                {
+                    "q": "The area of a parallelogram is 72cm^2 and its altitude is twice the corresponding base. What is the length of the base?",
+                    "opt": [
+                        "6cm",
+                        "36cm",
+                        "5cm",
+                        "25cm"
+                    ],
+                    "ans": "6cm"
+                },
+                {
+                    "q": "Find the total surface area of a 10cm x 4cm x 3cm brick?",
+                    "opt": [
+                        "8 cm^2",
+                        "64 cm^2",
+                        "12 cm^2",
+                        "164 cm^2"
+                    ],
+                    "ans": "164 cm^2"
+                },
+                {
+                    "q": "A Father is aged four times more than his son Dominion. After 5 years, he would be three times of Donion's age. After further 5 years, how many times would he be of Dominion's age?",
+                    "opt": [
+                        "2.13",
+                        "2.33",
+                        "2.43",
+                        "35"
+                    ],
+                    "ans": "2.33"
+                },
+                {
+                    "q": "In how many different number of ways the letters of the word 'ENGINEERING' can be arranged?",
+                    "opt": [
+                        "11!",
+                        "277,200",
+                        "277,000",
+                        "270,000"
+                    ],
+                    "ans": "277,200"
+                },
+                {
+                    "q": "If the average of x, 2x and 6 is equal to zero. Find the value of x.",
+                    "opt": [
+                        "2",
+                        "-2",
+                        "3",
+                        "-3"
+                    ],
+                    "ans": "-2"
+                },
+                {
+                    "q": "The average of 10 results is 60. If the average of first six results is 50 and that of the last six is 65, find the sixth result?",
+                    "opt": [
+                        "70",
+                        "80",
+                        "90",
+                        "100"
+                    ],
+                    "ans": "90"
+                },
+                {
+                    "q": "Dominion ate 8/10 of a pizza. State the fraction for the amount of pizza that was left over in its simplest form.",
+                    "opt": [
+                        "2/10",
+                        "4/5",
+                        "1/8",
+                        "1/5"
+                    ],
+                    "ans": "1/5"
+                },
+                {
+                    "q": "If q represents the smallest composite number larger than 2, and p represents the smallest prime number that is below 10, what is the value of p divided by q? ",
+                    "opt": [
+                        "0.5",
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "ans": "0.5"
+                }
+            ],
+            "4": [
+                {
+                    "q": "There are 10 brown socks and 10 grey socks in the dark store room. If you want to make sure you have a pair of matching socks, how many socks must you take out?",
+                    "opt": [
+                        "3 socks",
+                        "1 sock",
+                        "2 socks",
+                        "4 socks"
+                    ],
+                    "ans": "3 socks"
+                },
+                {
+                    "q": "Dominion and Elvis were standing outside a building. Dominion is Elvis' grandson, but Elvis is not Dominion's grandfather who is Elvis?",
+                    "opt": [
+                        "Dominion's mother",
+                        "Dominion's grand mother",
+                        "Dominion's great grand mother",
+                        "none of the above"
+                    ],
+                    "ans": "Dominion's grand mother"
+                },
+                {
+                    "q": "How many three digit odd numbers can be formed from the digits: 1, 2, 3, 4, 5. If it is permitted to use any of the digits more than once.",
+                    "opt": [
+                        "75",
+                        "25",
+                        "15",
+                        "5"
+                    ],
+                    "ans": "75"
+                },
+                {
+                    "q": "Two numbers 24 and 31 of base x and y respectively, are equal in value when converted to base ten. Find the equation connecting x and y.",
+                    "opt": [
+                        "2x = 3(y - 1)",
+                        "4x - y = 1",
+                        "3y + 2x = 3",
+                        "3y = 2(x + 3)"
+                    ],
+                    "ans": "2x = 3(y - 1)"
+                },
+                {
+                    "q": "The electrical resistance R ohms of a wire varies directly as the length L (cm) and inversely as the square root of the diameter d, find the value of d, correct to decimal places when L = 15cm, R = o.13 ohms and k = 1.25 x 10^(-3)",
+                    "opt": [
+                        "0.021",
+                        "0.02",
+                        "0.03",
+                        "0.0208"
+                    ],
+                    "ans": "0.02"
+                },
+                {
+                    "q": "In a survey of 50 newspaper readers, 40 read champion and 30 read guardian, how many read both papers?",
+                    "opt": [
+                        "10",
+                        "5",
+                        "20",
+                        "15"
+                    ],
+                    "ans": "20"
+                },
+                {
+                    "q": "The difference between the length and width of a rectangle is 6cm and the area is 135 centimeter square. What is the length?",
+                    "opt": [
+                        "25cm",
+                        "18cm",
+                        "15cm",
+                        "27cm"
+                    ],
+                    "ans": "15cm"
+                },
+                {
+                    "q": "The bearing of X from Y is 110 degrees. Find the bearing of Y from X.",
+                    "opt": [
+                        "250 degrees",
+                        "290 degrees",
+                        "20 degrees",
+                        "70 degrees"
+                    ],
+                    "ans": "290 degrees"
+                },
+                {
+                    "q": "Find the length of a side of a rhombus whose diagonals are 6cm and 8cm.",
+                    "opt": [
+                        "8cm",
+                        "5cm",
+                        "4cm",
+                        "3cm"
+                    ],
+                    "ans": "5cm"
+                },
+                {
+                    "q": "If three of the exterior angles of an hexagon are each X degrees and each of the other three is (2X) degrees, find X.",
+                    "opt": [
+                        "40 degrees",
+                        "120 degrees",
+                        "60 degrees",
+                        "80 degrees"
+                    ],
+                    "ans": "40 degrees"
+                }
             ],
             "5": [
                 {
-                    "q": "-12 - 13 = x",
+                    "q": "If k + 1, 2k -1, 3k + 1 are three consecutive terms of a geometric progression. Find the possible values of the common ratio.",
                     "opt": [
-                        "-25",
-                        "-24",
-                        "none",
-                        "25"
+                        "0, 8",
+                        "-1, 5/3",
+                        "2, 3",
+                        "1, 2"
                     ],
-                    "ans": "-25"
+                    "ans": "-1, 5/3"
                 },
                 {
-                    "q": "-36 - 47 = x",
+                    "q": "What must be added to 4x^(2) - 4, to make it a perfect square?",
                     "opt": [
-                        "-84",
-                        "-83",
-                        "-82",
-                        "-81"
+                        "1",
+                        "-1",
+                        "1/x^(2)",
+                        "-1/x^(2)"
                     ],
-                    "ans": "-83"
+                    "ans": "1/x^(2)"
                 },
                 {
-                    "q": "x - 47 = -83",
+                    "q": "Two fair dice are rolled, what is the probability that both show up the same number of points?",
                     "opt": [
-                        "-33",
-                        "-34",
-                        "-36",
-                        "-35"
+                        "1/36",
+                        "1/6",
+                        "1/3",
+                        "7/36"
                     ],
-                    "ans": "-36"
+                    "ans": "1/6"
                 },
                 {
-                    "q": "45 + x = 101",
+                    "q": "The length of a rectangle is twice its width. If the width and length are reduced by 1cm and 2cm respectively, the area will be 15 centimeter square. Find the dimensions of the original rectangle.",
                     "opt": [
-                        "58",
-                        "57",
-                        "55",
-                        "56"
+                        "3.74, 7.48",
+                        "3.73, 7.46",
+                        "3.7, 7.4",
+                        "3.0, 6.0"
                     ],
-                    "ans": "57"
+                    "ans": "3.74, 7.48"
                 },
                 {
-                    "q": "56 + x = 48",
+                    "q": "If the radius of the earth is 6370km, determine the length of a meridian.",
                     "opt": [
-                        "-7",
-                        "-6",
-                        "-5",
+                        "40023 km",
+                        "40024 km",
+                        "40025 km",
+                        "40040 km"
+                    ],
+                    "ans": "40040 km"
+                },
+                {
+                    "q": "What is the value of sin(-690 degrees)",
+                    "opt": [
+                        "-1/2",
+                        "1/2",
+                        "1/4",
+                        "3/2"
+                    ],
+                    "ans": "1/2"
+                },
+                {
+                    "q": "Which of the following lines are parallel? L1: 2x + 3y = 5; L2: 4x + 6y = 1; L3: 4x + 3y = 5. ",
+                    "opt": [
+                        "L1 and L2",
+                        "L1 and L3",
+                        "L2 and L3",
+                        "L1, L2 and L3"
+                    ],
+                    "ans": "L1 and L2"
+                },
+                {
+                    "q": "Find the minimum value of the function 2x^(3) - 6x^(2)",
+                    "opt": [
+                        "-2",
+                        "2",
+                        "0",
                         "-8"
                     ],
                     "ans": "-8"
                 },
                 {
-                    "q": "105 - 78 = y",
+                    "q": "4 people are to participate in a committee meeting. If all the members are to have a handshake with one another without duplication of handshakes, how many handshakes are there in a particular meeting?",
                     "opt": [
-                        "27",
-                        "24",
-                        "33",
-                        "44"
+                        "4",
+                        "5",
+                        "6",
+                        "10"
                     ],
-                    "ans": "27"
+                    "ans": "6"
                 },
                 {
-                    "q": "y - 66 = 107",
+                    "q": "The length in cm of sides of a right angled triangle are x, (x + 2) and (x + 1) where x > 0. find in cm, the length of the hypotenuse",
                     "opt": [
-                        "173",
-                        "170",
-                        "168",
-                        "165"
+                        "4",
+                        "5",
+                        "13",
+                        "17"
                     ],
-                    "ans": "173"
-                },
-                {
-                    "q": "-17 - 19 = y",
-                    "opt": [
-                        "-36",
-                        "-29",
-                        "-27",
-                        "-23"
-                    ],
-                    "ans": "-36"
-                },
-                {
-                    "q": "x - 35 = 76",
-                    "opt": [
-                        "111",
-                        "101",
-                        "99",
-                        "97"
-                    ],
-                    "ans": "111"
-                },
-                {
-                    "q": "-34 + x = -67",
-                    "opt": [
-                        "-32",
-                        "-33",
-                        "-23",
-                        "-43"
-                    ],
-                    "ans": "-33"
-                }
-            ],
-            "6": [
-                {
-                    "q": "120 + 130 = x",
-                    "opt": [
-                        "no idea",
-                        "240",
-                        "none",
-                        "150"
-                    ],
-                    "ans": "none"
-                },
-                {
-                    "q": "134 + 137 = y",
-                    "opt": [
-                        "272",
-                        "271",
-                        "269",
-                        "260"
-                    ],
-                    "ans": "271"
-                },
-                {
-                    "q": "167 + x = 276",
-                    "opt": [
-                        "106",
-                        "109",
-                        "96",
-                        "102"
-                    ],
-                    "ans": "109"
-                },
-                {
-                    "q": "-57 - x = -86",
-                    "opt": [
-                        "-29",
-                        "-22",
-                        "-23",
-                        "-19"
-                    ],
-                    "ans": "-29"
-                },
-                {
-                    "q": "-68 + 89 = y",
-                    "opt": [
-                        "22",
-                        "20",
-                        "19",
-                        "21"
-                    ],
-                    "ans": "21"
-                },
-                {
-                    "q": "166 + 189 = x",
-                    "opt": [
-                        "355",
-                        "325",
-                        "405",
-                        "295"
-                    ],
-                    "ans": "355"
-                },
-                {
-                    "q": "-34 + 171 = y",
-                    "opt": [
-                        "137",
-                        "none",
-                        "127",
-                        "129"
-                    ],
-                    "ans": "137"
-                },
-                {
-                    "q": "189 - 193 = y",
-                    "opt": [
-                        "-9",
-                        "-8",
-                        "-7",
-                        "-4"
-                    ],
-                    "ans": "-4"
-                },
-                {
-                    "q": "199 + 178 = y",
-                    "opt": [
-                        "367",
-                        "377",
-                        "407",
-                        "none"
-                    ],
-                    "ans": "377"
-                },
-                {
-                    "q": "-89 - y = -102",
-                    "opt": [
-                        "-12",
-                        "-13",
-                        "-9",
-                        "-14"
-                    ],
-                    "ans": "-13"
-                },
-                {
-                    "q": "-45 - 57 = x",
-                    "opt": [
-                        "-101",
-                        "-102",
-                        "-103",
-                        "-97"
-                    ],
-                    "ans": "-102"
-                },
-                {
-                    "q": "x - 67 = -109",
-                    "opt": [
-                        "-42",
-                        "-44",
-                        "-46",
-                        "-39"
-                    ],
-                    "ans": "-42"
-                },
-                {
-                    "q": "-50 + 50 = y",
-                    "opt": [
-                        "0",
-                        "1",
-                        "none",
-                        "-1"
-                    ],
-                    "ans": "0"
-                },
-                {
-                    "q": "320 - 299 = y",
-                    "opt": [
-                        "bonus",
-                        "bonus",
-                        "bonus",
-                        "bonus"
-                    ],
-                    "ans": "bonus"
-                },
-                {
-                    "q": "203 + 218 = x",
-                    "opt": [
-                        "419",
-                        "139",
-                        "137",
-                        "421"
-                    ],
-                    "ans": "421"
-                }
-            ],
-            "7": [
-                {
-                    "q": "230 + 301 = x",
-                    "opt": [
-                        "531",
-                        "529",
-                        "490",
-                        "534"
-                    ],
-                    "ans": "531"
-                },
-                {
-                    "q": "x - 289 = 189",
-                    "opt": [
-                        "478",
-                        "469",
-                        "450",
-                        "439"
-                    ],
-                    "ans": "478"
-                },
-                {
-                    "q": "321 - 209 = y",
-                    "opt": [
-                        "112",
-                        "102",
-                        "99",
-                        "114"
-                    ],
-                    "ans": "112"
-                },
-                {
-                    "q": "327 - x = 89",
-                    "opt": [
-                        "238",
-                        "229",
-                        "220",
-                        "230"
-                    ],
-                    "ans": "238"
-                },
-                {
-                    "q": "y - 57 = 346",
-                    "opt": [
-                        "-289",
-                        "-200",
-                        "-320",
-                        "-280"
-                    ],
-                    "ans": "-289"
-                },
-                {
-                    "q": "406 - y = -187",
-                    "opt": [
-                        "493",
-                        "593",
-                        "503",
-                        "403"
-                    ],
-                    "ans": "593"
-                },
-                {
-                    "q": "-108 - 109 = y",
-                    "opt": [
-                        "-217",
-                        "-199",
-                        "-219",
-                        "-215"
-                    ],
-                    "ans": "-217"
-                },
-                {
-                    "q": "326 - 197 = y",
-                    "opt": [
-                        "129",
-                        "120",
-                        "119",
-                        "110"
-                    ],
-                    "ans": "129"
-                },
-                {
-                    "q": "-157 - 198 = y",
-                    "opt": [
-                        "-255",
-                        "-355",
-                        "-369",
-                        "-365"
-                    ],
-                    "ans": "-365"
-                },
-                {
-                    "q": "302 - 157 = x",
-                    "opt": [
-                        "bonus",
-                        "bonus",
-                        "bonus",
-                        "bonus"
-                    ],
-                    "ans": "bonus"
-                },
-                {
-                    "q": "-208 - 189 = x",
-                    "opt": [
-                        "-397",
-                        "-407",
-                        "-507",
-                        "none"
-                    ],
-                    "ans": "-397"
-                },
-                {
-                    "q": "457 + 475 = y",
-                    "opt": [
-                        "900",
-                        "932",
-                        "954",
-                        "962"
-                    ],
-                    "ans": "932"
-                },
-                {
-                    "q": "-199 - y = -377",
-                    "opt": [
-                        "178",
-                        "168",
-                        "172",
-                        "169"
-                    ],
-                    "ans": "178"
-                },
-                {
-                    "q": "y - 201 = -402",
-                    "opt": [
-                        "-200",
-                        "-202",
-                        "-203",
-                        "none"
-                    ],
-                    "ans": "none"
-                },
-                {
-                    "q": "376 + 349 = y",
-                    "opt": [
-                        "725",
-                        "695",
-                        "745",
-                        "645"
-                    ],
-                    "ans": "725"
-                }
-            ],
-            "8": [
-                {
-                    "q": "234 - 342 = y",
-                    "opt": [
-                        "-100",
-                        "-108",
-                        "-98",
-                        "none"
-                    ],
-                    "ans": "-108"
-                },
-                {
-                    "q": "x - 367 = -787",
-                    "opt": [
-                        "-390",
-                        "-320",
-                        "-420",
-                        "-430"
-                    ],
-                    "ans": "-420"
-                },
-                {
-                    "q": "y + 289 = -689",
-                    "opt": [
-                        "-978",
-                        "-967",
-                        "-954",
-                        "none"
-                    ],
-                    "ans": "-978"
-                },
-                {
-                    "q": "567 - 444 = x",
-                    "opt": [
-                        "none",
-                        "99",
-                        "101",
-                        "102"
-                    ],
-                    "ans": "none"
-                },
-                {
-                    "q": "-x - 199 = -897",
-                    "opt": [
-                        "679",
-                        "698",
-                        "589",
-                        "702"
-                    ],
-                    "ans": "698"
-                },
-                {
-                    "q": "654 - 895 = x",
-                    "opt": [
-                        "-241",
-                        "-265",
-                        "-321",
-                        "-277"
-                    ],
-                    "ans": "-241"
-                },
-                {
-                    "q": "-1002 + y = -1093",
-                    "opt": [
-                        "91",
-                        "-90",
-                        "-89",
-                        "none"
-                    ],
-                    "ans": "none"
-                },
-                {
-                    "q": "724 + y = -662",
-                    "opt": [
-                        "-1067",
-                        "-1386",
-                        "-1567",
-                        "none"
-                    ],
-                    "ans": "-1386"
-                },
-                {
-                    "q": "-480 - x = 517",
-                    "opt": [
-                        "-997",
-                        "997",
-                        "-992",
-                        "992"
-                    ],
-                    "ans": "992"
-                },
-                {
-                    "q": "1257 + 1346 = y",
-                    "opt": [
-                        "2603",
-                        "2657",
-                        "2897",
-                        "2589"
-                    ],
-                    "ans": "2603"
-                },
-                {
-                    "q": "1342 - x = 1498",
-                    "opt": [
-                        "-156",
-                        "-149",
-                        "-139",
-                        "-209"
-                    ],
-                    "ans": "-156"
-                },
-                {
-                    "q": "x - 888 = 777",
-                    "opt": [
-                        "1665",
-                        "1089",
-                        "1554",
-                        "1789"
-                    ],
-                    "ans": "1665"
-                },
-                {
-                    "q": "-1001 - x = 1568",
-                    "opt": [
-                        "-2569",
-                        "567",
-                        "none",
-                        "-2564"
-                    ],
-                    "ans": "-2569"
-                },
-                {
-                    "q": "-1467 + 1779 = y",
-                    "opt": [
-                        "314",
-                        "316",
-                        "317",
-                        "312"
-                    ],
-                    "ans": "312"
-                },
-                {
-                    "q": "927 - y = 1869",
-                    "opt": [
-                        "-942",
-                        "942",
-                        "939",
-                        "-939"
-                    ],
-                    "ans": "-942"
-                }
-            ],
-            "9": [
-                {
-                    "q": "1899 - x = 616",
-                    "opt": [
-                        "none",
-                        "1284",
-                        "2356",
-                        "3289"
-                    ],
-                    "ans": "1284"
-                },
-                {
-                    "q": "1777 + 1777 = x",
-                    "opt": [
-                        "bonus",
-                        "bonus",
-                        "bonus",
-                        "bonus"
-                    ],
-                    "ans": "bonus"
-                },
-                {
-                    "q": "-897 - 897 = y",
-                    "opt": [
-                        "-1794",
-                        "-1654",
-                        "-2309",
-                        "none"
-                    ],
-                    "ans": ""
-                },
-                {
-                    "q": "-y + 1378 = 884",
-                    "opt": [
-                        "494",
-                        "567",
-                        "687",
-                        "876"
-                    ],
-                    "ans": "494"
-                },
-                {
-                    "q": "-x - 975 = 1087",
-                    "opt": [
-                        "none",
-                        "-3298",
-                        "-1098",
-                        "-2062"
-                    ],
-                    "ans": "-2062"
-                },
-                {
-                    "q": "1999 + 2011 = x",
-                    "opt": [
-                        "3987",
-                        "2765",
-                        "4010",
-                        "none"
-                    ],
-                    "ans": "4010"
-                },
-                {
-                    "q": "2023 - 2199 = y",
-                    "opt": [
-                        "-234",
-                        "-654",
-                        "-345",
-                        "-176"
-                    ],
-                    "ans": "-176"
-                },
-                {
-                    "q": "y = 671 - 839",
-                    "opt": [
-                        "-234",
-                        "-345",
-                        "-168",
-                        "-465"
-                    ],
-                    "ans": "-168"
-                },
-                {
-                    "q": "x = 1289 - 1011",
-                    "opt": [
-                        "567",
-                        "456",
-                        "345",
-                        "278"
-                    ],
-                    "ans": "278"
-                },
-                {
-                    "q": "488 - y = -1039",
-                    "opt": [
-                        "2356",
-                        "3219",
-                        "1527",
-                        "none"
-                    ],
-                    "ans": "1527"
-                },
-                {
-                    "q": "1989 + y = 3120",
-                    "opt": [
-                        "1131",
-                        "2345",
-                        "1987",
-                        "3256"
-                    ],
-                    "ans": "1131"
-                },
-                {
-                    "q": "2890 + x = 3450",
-                    "opt": [
-                        "560",
-                        "589",
-                        "768",
-                        "876"
-                    ],
-                    "ans": "560"
-                },
-                {
-                    "q": "760 - 2776 = y",
-                    "opt": [
-                        "none",
-                        "-2016",
-                        "-2023",
-                        "-3098"
-                    ],
-                    "ans": "-2016"
-                },
-                {
-                    "q": "1234 - x = 3099",
-                    "opt": [
-                        "-2356",
-                        "-1865",
-                        "-1098",
-                        "-3456"
-                    ],
-                    "ans": "-1865"
-                },
-                {
-                    "q": "3167 + 2996 = x",
-                    "opt": [
-                        "5987",
-                        "4987",
-                        "6163",
-                        "3987"
-                    ],
-                    "ans": "6163"
-                }
-            ],
-            "10": [
-                {
-                    "q": "-y + 1227 = 825",
-                    "opt": [
-                        "756",
-                        "402",
-                        "512",
-                        "608"
-                    ],
-                    "ans": "402"
-                },
-                {
-                    "q": "-x + 1280 = 3779",
-                    "opt": [
-                        "-2499",
-                        "-3245",
-                        "-2356",
-                        "-1987"
-                    ],
-                    "ans": "-2499"
-                },
-                {
-                    "q": "-1927 - x = 2812",
-                    "opt": [
-                        "-3879",
-                        "-5123",
-                        "-4739",
-                        "none"
-                    ],
-                    "ans": "-4739"
-                },
-                {
-                    "q": "1255 + 458 = y",
-                    "opt": [
-                        "1713",
-                        "1615",
-                        "1897",
-                        "1723"
-                    ],
-                    "ans": "1713"
-                },
-                {
-                    "q": "x - 789 = -3187",
-                    "opt": [
-                        "-2398",
-                        "-3987",
-                        "-4389",
-                        "none"
-                    ],
-                    "ans": "-2398"
-                },
-                {
-                    "q": "y - 899 = 2710",
-                    "opt": [
-                        "3609",
-                        "2987",
-                        "4123",
-                        "5098"
-                    ],
-                    "ans": "3609"
-                },
-                {
-                    "q": "2077 - y = -3998",
-                    "opt": [
-                        "5876",
-                        "6075",
-                        "4327",
-                        "3987"
-                    ],
-                    "ans": "6075"
-                },
-                {
-                    "q": "-y - 2765 = 1098",
-                    "opt": [
-                        "-2976",
-                        "-3863",
-                        "-2987",
-                        "-4567"
-                    ],
-                    "ans": "-3863"
-                },
-                {
-                    "q": "-1396 - x = 2509",
-                    "opt": [
-                        "-3905",
-                        "-2878",
-                        "-4078",
-                        "none"
-                    ],
-                    "ans": "none"
-                },
-                {
-                    "q": "-x - 3278 = 4096",
-                    "opt": [
-                        "818",
-                        "917",
-                        "1098",
-                        "756"
-                    ],
-                    "ans": "818"
-                },
-                {
-                    "q": "y = 3076 + 4876",
-                    "opt": [
-                        "7952",
-                        "8945",
-                        "6789",
-                        "5342"
-                    ],
-                    "ans": "7952"
-                },
-                {
-                    "q": "x = 4096 - 5069",
-                    "opt": [
-                        "-973",
-                        "-875",
-                        "-675",
-                        "-1098"
-                    ],
-                    "ans": "-973"
-                },
-                {
-                    "q": "y = -3458 - 4892",
-                    "opt": [
-                        "9087",
-                        "8350",
-                        "7982",
-                        "6230"
-                    ],
-                    "ans": "8350"
-                },
-                {
-                    "q": "-x - 7890 = 6547",
-                    "opt": [
-                        "-1343",
-                        "-1034",
-                        "none",
-                        "-1456"
-                    ],
-                    "ans": "-1343"
-                },
-                {
-                    "q": "8965 - x = 6789",
-                    "opt": [
-                        "16754",
-                        "15754",
-                        "14754",
-                        "none"
-                    ],
-                    "ans": "15754"
+                    "ans": "5"
                 }
             ]
         }
