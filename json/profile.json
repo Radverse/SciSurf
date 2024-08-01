@@ -251,7 +251,7 @@
             "author": "SciSurf"
         },
         {
-            "name": "Word_Problem",
+            "name": "WordProblem",
             "info": "Contains Standard only.",
             "data": [
                 {
@@ -260,8 +260,8 @@
                     "info": "This option takes you from the beginners levels of the Captain Dominion World Problems Questions to more difficult levels, which improves your Knowledge, speed and accuracy."
                 }
             ],
-            "color": "#003652",
-            "shortName": "Al",
+            "color": "#003D5C",
+            "shortName": "Wp",
             "author": "Captain Dominion"
         }
     ],
@@ -2290,7 +2290,7 @@
                 ]
             }
         },
-        "Word_Problem": {
+        "WordProblem": {
             "Standard": {
                 "array": [],
                 "length": 5,
