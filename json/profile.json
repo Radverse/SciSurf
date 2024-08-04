@@ -6,10 +6,9 @@
             "cardUrl": "s-card-cla",
             "color": "#02367B",
             "identifier": "cla",
-            "autoplayInterval": 5000,
             "shortName": "Cl",
             "levels": "15",
-            "author": "inktech"
+            "author": "SciSurf"
         },
         {
             "id": "2",
@@ -17,10 +16,9 @@
             "cardUrl": "s-card-adv",
             "color": "#006CA5",
             "identifier": "adv",
-            "autoplayInterval": 10000,
             "shortName": "Aj",
             "levels": "15",
-            "author": "inktech"
+            "author": "SciSurf"
         },
         {
             "id": "3",
@@ -28,10 +26,9 @@
             "cardUrl": "s-card-ten",
             "color": "#0496C7",
             "identifier": "ten",
-            "autoplayInterval": 7000,
             "shortName": "Te",
             "levels": "15",
-            "author": "inktech"
+            "author": "SciSurf"
         },
         {
             "id": "4",
@@ -39,10 +36,9 @@
             "cardUrl": "s-card-syn",
             "color": "#04BADE",
             "identifier": "syn",
-            "autoplayInterval": 4000,
             "shortName": "Sy",
             "levels": "15",
-            "author": "inktech"
+            "author": "SciSurf"
         },
         {
             "id": "5",
@@ -50,10 +46,9 @@
             "cardUrl": "s-card-ver1",
             "color": "#1D2E28",
             "identifier": "ver",
-            "autoplayInterval": 10000,
             "shortName": "Ve",
             "levels": "15",
-            "author": "inktech"
+            "author": "SciSurf"
         },
         {
             "id": "6",
@@ -61,10 +56,9 @@
             "cardUrl": "s-card-art",
             "color": "#18392B",
             "identifier": "art",
-            "autoplayInterval": 7000,
             "shortName": "Ar",
             "levels": "15",
-            "author": "inktech"
+            "author": "SciSurf"
         },
         {
             "id": "7",
@@ -72,9 +66,9 @@
             "cardUrl": "s-card-nou",
             "color": "#14452F",
             "identifier": "nou",
-            "autoplayInterval": 5000,
             "shortName": "No",
-            "levels": "15"
+            "levels": "15",
+            "author": "SciSurf"
         },
         {
             "id": "8",
@@ -82,10 +76,9 @@
             "cardUrl": "s-card-spe",
             "color": "#0F5132",
             "identifier": "spe",
-            "autoplayInterval": 4000,
             "shortName": "Sp",
             "levels": "15",
-            "author": "inktech"
+            "author": "SciSurf"
         },
         {
             "id": "9",
@@ -93,10 +86,9 @@
             "cardUrl": "s-card-pro",
             "color": "#0A5C36",
             "identifier": "pro",
-            "autoplayInterval": 5000,
             "shortName": "Pr",
             "levels": "15",
-            "author": "inktech"
+            "author": "SciSurf"
         },
         {
             "id": "10",
@@ -104,10 +96,9 @@
             "cardUrl": "s-card-idi",
             "color": "#be4246",
             "identifier": "idi",
-            "autoplayInterval": 7000,
             "shortName": "Id",
             "levels": "15",
-            "author": "inktech"
+            "author": "SciSurf"
         }
     ],
     "mathCardInfo": [
@@ -2336,28 +2327,36 @@
     },
     "author": [
         {
+            "authorName": "SciSurf",
             "name": "SciSurf Official",
             "fbLink": "https://www.facebook.com/profile.php?id=61563367082570",
             "color": "darkblue",
-            "specilization": "Math and English"
+            "specilization": "Math and English",
+            "description": "This is a simple Bio description"
         },
         {
+            "authorName": "Engr. Happy Simon",
             "name": "Engr. Kester Osaro",
             "fbLink": "https://www.facebook.com/profile.php?id=61559876475276",
             "color": "red",
-            "specilization": "Civil Engineer"
+            "specilization": "Civil Engineer",
+            "description": "This is a simple Bio description"
         },
         {
+            "authorName": "Engr. Happy Simon",
             "name": "Engr. Happy Simon",
             "fbLink": "https://www.facebook.com/profile.php?id=100078196057930",
             "color": "yellow",
-            "specilization": "Structural Engineer"
+            "specilization": "Structural Engineer",
+            "description": "This is a simple Bio description"
         },
         {
+            "authorName": "Captain Dominion",
             "name": "Engr. Captain Dominion",
-            "fbLink": "https://www.facebook.com/profile.php?id=61563367082570",
+            "fbLink": "https://www.facebook.com/profile.php?id=100093561245345",
             "color": "yellow",
-            "specilization": "Electrical Engineer"
+            "specilization": "Electrical Engineer",
+            "description": "This is a simple Bio description"
         }
     ]
 }
