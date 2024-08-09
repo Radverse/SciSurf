@@ -8,7 +8,8 @@
             "identifier": "cla",
             "shortName": "Cl",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 55
         },
         {
             "id": "2",
@@ -18,7 +19,8 @@
             "identifier": "adv",
             "shortName": "Aj",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 50
         },
         {
             "id": "3",
@@ -28,7 +30,8 @@
             "identifier": "ten",
             "shortName": "Te",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 50
         },
         {
             "id": "4",
@@ -38,7 +41,8 @@
             "identifier": "syn",
             "shortName": "Sy",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 50
         },
         {
             "id": "5",
@@ -48,7 +52,8 @@
             "identifier": "ver",
             "shortName": "Ve",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 50
         },
         {
             "id": "6",
@@ -58,7 +63,8 @@
             "identifier": "art",
             "shortName": "Ar",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 50
         },
         {
             "id": "7",
@@ -68,7 +74,8 @@
             "identifier": "nou",
             "shortName": "No",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 50
         },
         {
             "id": "8",
@@ -78,7 +85,8 @@
             "identifier": "spe",
             "shortName": "Sp",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 50
         },
         {
             "id": "9",
@@ -88,7 +96,8 @@
             "identifier": "pro",
             "shortName": "Pr",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 50
         },
         {
             "id": "10",
@@ -98,7 +107,8 @@
             "identifier": "idi",
             "shortName": "Id",
             "levels": "15",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "time": 55
         }
     ],
     "mathCardInfo": [
@@ -109,32 +119,38 @@
                 {
                     "id": 1,
                     "name": "Addition",
-                    "info": "This option takes you from the beginners levels of Interger Addition to difficult levels. This helps to boost your speed and accuracy in Integer Addition."
+                    "info": "This option takes you from the beginners levels of Interger Addition to difficult levels. This helps to boost your speed and accuracy in Integer Addition.",
+                    "time": 40
                 },
                 {
                     "id": 2,
                     "name": "Subtraction",
-                    "info": "This option takes you from the beginners levels of Interger Subtraction to difficult levels. This helps to boost your speed and accuracy in Integer Subtraction."
+                    "info": "This option takes you from the beginners levels of Interger Subtraction to difficult levels. This helps to boost your speed and accuracy in Integer Subtraction.",
+                    "time": 40
                 },
                 {
                     "id": 3,
                     "name": "Multiplication",
-                    "info": "This option takes you from the beginners levels of Interger Multiplication to difficult levels. This helps to boost your speed and accuracy in Integer Multiplication."
+                    "info": "This option takes you from the beginners levels of Interger Multiplication to difficult levels. This helps to boost your speed and accuracy in Integer Multiplication.",
+                    "time": 50
                 },
                 {
                     "id": 4,
                     "name": "Division",
-                    "info": "This option takes you from the beginners levels of Interger Division to difficult levels. This helps to boost your speed and accuracy in Integer Division."
+                    "info": "This option takes you from the beginners levels of Interger Division to difficult levels. This helps to boost your speed and accuracy in Integer Division.",
+                    "time": 50
                 },
                 {
                     "id": 5,
                     "name": "Root",
-                    "info": "This option takes you from the beginners levels of Interger Roots to difficult levels. This helps to boost your speed and accuracy in Integer Roots."
+                    "info": "This option takes you from the beginners levels of Interger Roots to difficult levels. This helps to boost your speed and accuracy in Integer Roots.",
+                    "time": 50
                 }
             ],
             "color": "#001824",
             "shortName": "In",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "displayName": "Integer"
         },
         {
             "name": "Decimal",
@@ -143,27 +159,32 @@
                 {
                     "id": 1,
                     "name": "Addition",
-                    "info": "This option takes you from the beginners levels of Decimal Addition to difficult levels. This helps to boost your speed and accuracy in Decimal Addition."
+                    "info": "This option takes you from the beginners levels of Decimal Addition to difficult levels. This helps to boost your speed and accuracy in Decimal Addition.",
+                    "time": 40
                 },
                 {
                     "id": 2,
                     "name": "Subtraction",
-                    "info": "This option takes you from the beginners levels of Decimal Subtraction to difficult levels. This helps to boost your speed and accuracy in Decimal Subtraction."
+                    "info": "This option takes you from the beginners levels of Decimal Subtraction to difficult levels. This helps to boost your speed and accuracy in Decimal Subtraction.",
+                    "time": 40
                 },
                 {
                     "id": 3,
                     "name": "Multiplication",
-                    "info": "This option takes you from the beginners levels of Decimal Multiplication to difficult levels. This helps to boost your speed and accuracy in Decimal Multiplication."
+                    "info": "This option takes you from the beginners levels of Decimal Multiplication to difficult levels. This helps to boost your speed and accuracy in Decimal Multiplication.",
+                    "time": 50
                 },
                 {
                     "id": 4,
                     "name": "Division",
-                    "info": "This option takes you from the beginners levels of Decimal Division to difficult levels. This helps to boost your speed and accuracy in Decimal Division."
+                    "info": "This option takes you from the beginners levels of Decimal Division to difficult levels. This helps to boost your speed and accuracy in Decimal Division.",
+                    "time": 50
                 }
             ],
             "color": "#001B29",
             "shortName": "De",
-            "author": "Engr. Happy Simon"
+            "author": "Engr. Happy Simon",
+            "displayName": "Decimal"
         },
         {
             "name": "Fraction",
@@ -172,22 +193,26 @@
                 {
                     "id": 1,
                     "name": "Addition",
-                    "info": "This option takes you from the beginners levels of Fraction Addition to difficult levels. This helps to boost your speed and accuracy in Integer Addition."
+                    "info": "This option takes you from the beginners levels of Fraction Addition to difficult levels. This helps to boost your speed and accuracy in Integer Addition.",
+                    "time": 50
                 },
                 {
                     "id": 2,
                     "name": "Subtraction",
-                    "info": "This option takes you from the beginners levels of Fraction Subtraction to difficult levels. This helps to boost your speed and accuracy in Integer Addition."
+                    "info": "This option takes you from the beginners levels of Fraction Subtraction to difficult levels. This helps to boost your speed and accuracy in Integer Addition.",
+                    "time": 50
                 },
                 {
                     "id": 3,
                     "name": "Multiplication",
-                    "info": "This option takes you from the beginners levels of Fraction Multiplication to difficult levels. This helps to boost your speed and accuracy in Integer Addition."
+                    "info": "This option takes you from the beginners levels of Fraction Multiplication to difficult levels. This helps to boost your speed and accuracy in Integer Addition.",
+                    "time": 60
                 }
             ],
             "color": "#002233",
             "shortName": "Fr",
-            "author": "Engr. Kester Osaro"
+            "author": "Engr. Kester Osaro",
+            "displayName": "Fraction"
         },
         {
             "name": "Mixed",
@@ -196,17 +221,20 @@
                 {
                     "id": 1,
                     "name": "Standard",
-                    "info": "This option takes you from the beginners levels of the standard mixed questions on integers, Decimals, and Fractions to more difficult levels, which improves your Knowledge and speed."
+                    "info": "This option takes you from the beginners levels of the standard mixed questions on integers, Decimals, and Fractions to more difficult levels, which improves your Knowledge and speed.",
+                    "time": 50
                 },
                 {
                     "id": 2,
                     "name": "Professional",
-                    "info": "This option takes you from difficult levels of the standard mixed questions on integers, Decimals, and Fractions to complex levels, which improves your Knowledge and accuracy."
+                    "info": "This option takes you from difficult levels of the standard mixed questions on integers, Decimals, and Fractions to complex levels, which improves your Knowledge and accuracy.",
+                    "time": 50
                 }
             ],
             "color": "#00293D",
             "shortName": "Mi",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "displayName": "Mixed"
         },
         {
             "name": "Algebra",
@@ -215,17 +243,20 @@
                 {
                     "id": 1,
                     "name": "Standard",
-                    "info": "This option takes you from the beginners levels of the standard mixed questions on Algebra linear equations to more difficult levels, which improves your Knowledge and speed."
+                    "info": "This option takes you from the beginners levels of the standard mixed questions on Algebra linear equations to more difficult levels, which improves your Knowledge and speed.",
+                    "time": 50
                 },
                 {
                     "id": 2,
                     "name": "Professional",
-                    "info": "This option takes you from difficult levels of the standard mixed questions on Algebra linear equations to  complex levels, which improves your Knowledge and accuracy."
+                    "info": "This option takes you from difficult levels of the standard mixed questions on Algebra linear equations to  complex levels, which improves your Knowledge and accuracy.",
+                    "time": 60
                 }
             ],
             "color": "#003047",
             "shortName": "Al",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "displayName": "Algebra"
         },
         {
             "name": "SciSurfing",
@@ -234,12 +265,14 @@
                 {
                     "id": 1,
                     "name": "Standard",
-                    "info": "This option takes you from the beginners levels of the SciSurf Question set version 1 to more difficult levels, which improves your Knowledge and speed."
+                    "info": "This option takes you from the beginners levels of the SciSurf Question set version 1 to more difficult levels, which improves your Knowledge and speed.",
+                    "time": 40
                 }
             ],
             "color": "#003652",
             "shortName": "Al",
-            "author": "SciSurf"
+            "author": "SciSurf",
+            "displayName": "SciSurfing"
         },
         {
             "name": "WorldProblem",
@@ -248,12 +281,42 @@
                 {
                     "id": 1,
                     "name": "Standard",
-                    "info": "This option takes you from the beginners levels of the Captain Dominion World Problems Questions to more difficult levels, which improves your Knowledge, speed and accuracy."
+                    "info": "This option takes you from the beginners levels of the Captain Dominion World Problems Questions to more difficult levels, which improves your Knowledge, speed and accuracy.",
+                    "time": 60
                 }
             ],
             "color": "#003D5C",
             "shortName": "Wp",
-            "author": "Captain Dominion"
+            "author": "Captain Dominion",
+            "displayName": "World Problem"
+        },
+        {
+            "name": "Testing1",
+            "info": "Contains Standard only.",
+            "data": [
+                {
+                    "id": 1,
+                    "name": "Standard",
+                    "info": "This is a test quiz card, might not be functional.",
+                    "time": 60
+                }
+            ],
+            "color": "#DE3163",
+            "shortName": "Te",
+            "author": "SciSurf",
+            "displayName": "Testing 1"
+        }
+    ],
+    "generalCardInfo": [
+        {
+            "id": "1",
+            "name": "Fun Fact Surf",
+            "color": "#9F2B68",
+            "identifier": "generalS1Fun",
+            "shortName": "Fun",
+            "levels": "6",
+            "author": "SciSurf",
+            "time": 40
         }
     ],
     "englishQuizProfile": {
@@ -2323,6 +2386,106 @@
                     }
                 ]
             }
+        },
+        "Testing1": {
+            "Standard": {
+                "array": [],
+                "length": 5,
+                "levels": [
+                    {
+                        "id": "1",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "true"
+                    },
+                    {
+                        "id": "2",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "3",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "4",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    },
+                    {
+                        "id": "5",
+                        "length": "10",
+                        "percentage": "0",
+                        "star": "0",
+                        "isOpen": "false"
+                    }
+                ]
+            }
+        }
+    },
+    "generalQuizProfile": {
+        "generalS1Fun": {
+            "array": [],
+            "length": 7,
+            "levels": [
+                {
+                    "id": "1",
+                    "length": "6",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "true"
+                },
+                {
+                    "id": "2",
+                    "length": "6",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "3",
+                    "length": "8",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "4",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "5",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "6",
+                    "length": "10",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                },
+                {
+                    "id": "7",
+                    "length": "16",
+                    "percentage": "0",
+                    "star": "0",
+                    "isOpen": "false"
+                }
+            ]
         }
     },
     "author": [
@@ -2335,7 +2498,7 @@
             "description": "This is a simple Bio description"
         },
         {
-            "authorName": "Engr. Happy Simon",
+            "authorName": "Engr. Kester Osaro",
             "name": "Engr. Kester Osaro",
             "fbLink": "https://www.facebook.com/profile.php?id=61559876475276",
             "color": "red",

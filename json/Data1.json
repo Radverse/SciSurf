@@ -18328,7 +18328,521 @@
             ]
         }
     },
-    "WorldProblem": {
+    "WordProblem": {
+        "Standard": {
+            "1": [
+                {
+                    "q": "Pick the odd one out from the sequence",
+                    "opt": [
+                        "11",
+                        "3",
+                        "5",
+                        "9"
+                    ],
+                    "ans": "9"
+                },
+                {
+                    "q": "One third of one third of two fifth of a number is 20. what will be 20% of that number.",
+                    "opt": [
+                        "80",
+                        "90",
+                        "180",
+                        "100"
+                    ],
+                    "ans": "90"
+                },
+                {
+                    "q": "the arithmetic mean between a and 20 is 40, the value of 'a' is?",
+                    "opt": [
+                        "40",
+                        "50",
+                        "60",
+                        "70"
+                    ],
+                    "ans": "60"
+                },
+                {
+                    "q": "The first term of the geometric progression 1, 5, 10, 15 ........, is",
+                    "opt": [
+                        "0",
+                        "5",
+                        "15",
+                        "1"
+                    ],
+                    "ans": "1"
+                },
+                {
+                    "q": "The first, second and third term of a proportion are 15, 6, 2.4. The fourth term is?",
+                    "opt": [
+                        "0.96",
+                        "1.96",
+                        "1.69",
+                        "1.08"
+                    ],
+                    "ans": "0.96"
+                },
+                {
+                    "q": "In 3 years, Dominion father age twice as dominion. Two years ago, Dominion mother age twice as dominion. If Dominion is 22 years old in eight years from now, what is the age of Dominion mother and father?",
+                    "opt": [
+                        "31 & 26",
+                        "26 & 31",
+                        "41 & 36",
+                        "36 & 41"
+                    ],
+                    "ans": "26 & 31"
+                },
+                {
+                    "q": "The ages of Destiny and dominion are in the ratio of 2:3. After 6 years, the ratio of their ages will become 3:4. find the present age of Dominion?",
+                    "opt": [
+                        "12",
+                        "14",
+                        "16",
+                        "18"
+                    ],
+                    "ans": "18"
+                },
+                {
+                    "q": "Today is friday, after 133 days, it will be which day?",
+                    "opt": [
+                        "Friday",
+                        "Monday",
+                        "Wednesday",
+                        "Thursday"
+                    ],
+                    "ans": "Friday"
+                },
+                {
+                    "q": "Dominion arrange his physics, chemistry, Mathematics, biology and Geography books in a shelf. In how many ways can you do it?",
+                    "opt": [
+                        "100",
+                        "720",
+                        "24",
+                        "120"
+                    ],
+                    "ans": "120"
+                },
+                {
+                    "q": "The area of  a rectangle is 450 meter square. If the length is 20% more than the breadth. What is the breadth of the rectangular field?",
+                    "opt": [
+                        "20.00",
+                        "20.36",
+                        "19.36",
+                        "19.00"
+                    ],
+                    "ans": "19.36"
+                }
+            ],
+            "2": [
+                {
+                    "q": "The volume of a cube is 729 cubic meter. find its surface area?",
+                    "opt": [
+                        "243 meter square",
+                        "486 meter square",
+                        "54 meter square",
+                        "81 meter square"
+                    ],
+                    "ans": "243 meter square"
+                },
+                {
+                    "q": "The electrical engineering department at UNIBEN consists of 36 students. In this department, the number of female students, and the number of indigenous students is 3x the number of students from other tribe: Quantity A = The number of students who are from other tribes; Quantity B = The number of female students. Which of the following options is true?",
+                    "opt": [
+                        "Quantity A is greater",
+                        "Quantity B is greater",
+                        "The relationship cannot be determined",
+                        "none of the above"
+                    ],
+                    "ans": "Quantity B is greater"
+                },
+                {
+                    "q": "Every five minutes, a new born baby enters the world in Nigeria. What is the annual number of babies born in Nigeria? ",
+                    "opt": [
+                        "150,120",
+                        "105,120",
+                        "100,510",
+                        "103,555"
+                    ],
+                    "ans": "105,120"
+                },
+                {
+                    "q": "If the largest side of a triangle is denoted as A, with the other two sides denoted as B and C. What is the relationship between them?",
+                    "opt": [
+                        "A + B",
+                        "A = B + C",
+                        "A > |B - C|",
+                        "|B - C|"
+                    ],
+                    "ans": "A > |B - C|"
+                },
+                {
+                    "q": "Line A is represented by the following equation: 10y + 20x = 50: Quantity A = The y-intercept of line A, Quantity B = The slope of line A. Which of the following is option is true.",
+                    "opt": [
+                        "Quantity A is greater",
+                        "Quantity B is greater",
+                        "the two quantities are equal",
+                        "None of the above"
+                    ],
+                    "ans": "Quantity A is greater"
+                },
+                {
+                    "q": "1/25^n. for which value of n is the above statement true?",
+                    "opt": [
+                        "-1/2",
+                        "1/2",
+                        "1",
+                        "0"
+                    ],
+                    "ans": "-1/2"
+                },
+                {
+                    "q": "What is the total length around the boundary of a rectangle that has two sides measuring 4cm and two sides measuring 6cm?",
+                    "opt": [
+                        "20cm",
+                        "10cm",
+                        "12cm",
+                        "30cm"
+                    ],
+                    "ans": "20cm"
+                },
+                {
+                    "q": "10^x = 10,000,000,000; Quantity A = x; Quantity B = 12",
+                    "opt": [
+                        "Quantity A is greater",
+                        "Quantity B is greater",
+                        "the two quantities are equal",
+                        "None of the above"
+                    ],
+                    "ans": "Quantity B is greater"
+                },
+                {
+                    "q": "A X B = (AB)^2 + (A + B)^2; Quantity A = 2 x 5; Quantity B = 150",
+                    "opt": [
+                        "Quantity A is greater",
+                        "Quantity B is greater",
+                        "the two quantities are equal",
+                        "None of the above"
+                    ],
+                    "ans": "Quantity B is greater"
+                },
+                {
+                    "q": "If one integer y, is a multiple of three and the product of two integers x and y, results in value less than 82. What is the maximum value that x can have?",
+                    "opt": [
+                        "13",
+                        "27",
+                        "30",
+                        "34"
+                    ],
+                    "ans": "27"
+                }
+            ],
+            "3": [
+                {
+                    "q": "if Log(3) + Log(3x + 1) = Log(x + 3) + Log(6), Then x is equal to?",
+                    "opt": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "ans": "5"
+                },
+                {
+                    "q": "6^(m) = 46656, what is the value of 6^(m-2)",
+                    "opt": [
+                        "7776",
+                        "3888",
+                        "1276",
+                        "1000"
+                    ],
+                    "ans": "1276"
+                },
+                {
+                    "q": "The area of a parallelogram is 72cm^2 and its altitude is twice the corresponding base. What is the length of the base?",
+                    "opt": [
+                        "6cm",
+                        "36cm",
+                        "5cm",
+                        "25cm"
+                    ],
+                    "ans": "6cm"
+                },
+                {
+                    "q": "Find the total surface area of a 10cm x 4cm x 3cm brick?",
+                    "opt": [
+                        "8 cm^2",
+                        "64 cm^2",
+                        "12 cm^2",
+                        "164 cm^2"
+                    ],
+                    "ans": "164 cm^2"
+                },
+                {
+                    "q": "A Father is aged four times more than his son Dominion. After 5 years, he would be three times of Donion's age. After further 5 years, how many times would he be of Dominion's age?",
+                    "opt": [
+                        "2.13",
+                        "2.33",
+                        "2.43",
+                        "35"
+                    ],
+                    "ans": "2.33"
+                },
+                {
+                    "q": "In how many different number of ways the letters of the word 'ENGINEERING' can be arranged?",
+                    "opt": [
+                        "11!",
+                        "277,200",
+                        "277,000",
+                        "270,000"
+                    ],
+                    "ans": "277,200"
+                },
+                {
+                    "q": "If the average of x, 2x and 6 is equal to zero. Find the value of x.",
+                    "opt": [
+                        "2",
+                        "-2",
+                        "3",
+                        "-3"
+                    ],
+                    "ans": "-2"
+                },
+                {
+                    "q": "The average of 10 results is 60. If the average of first six results is 50 and that of the last six is 65, find the sixth result?",
+                    "opt": [
+                        "70",
+                        "80",
+                        "90",
+                        "100"
+                    ],
+                    "ans": "90"
+                },
+                {
+                    "q": "Dominion ate 8/10 of a pizza. State the fraction for the amount of pizza that was left over in its simplest form.",
+                    "opt": [
+                        "2/10",
+                        "4/5",
+                        "1/8",
+                        "1/5"
+                    ],
+                    "ans": "1/5"
+                },
+                {
+                    "q": "If q represents the smallest composite number larger than 2, and p represents the smallest prime number that is below 10, what is the value of p divided by q? ",
+                    "opt": [
+                        "0.5",
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "ans": "0.5"
+                }
+            ],
+            "4": [
+                {
+                    "q": "There are 10 brown socks and 10 grey socks in the dark store room. If you want to make sure you have a pair of matching socks, how many socks must you take out?",
+                    "opt": [
+                        "3 socks",
+                        "1 sock",
+                        "2 socks",
+                        "4 socks"
+                    ],
+                    "ans": "3 socks"
+                },
+                {
+                    "q": "Dominion and Elvis were standing outside a building. Dominion is Elvis' grandson, but Elvis is not Dominion's grandfather who is Elvis?",
+                    "opt": [
+                        "Dominion's mother",
+                        "Dominion's grand mother",
+                        "Dominion's great grand mother",
+                        "none of the above"
+                    ],
+                    "ans": "Dominion's grand mother"
+                },
+                {
+                    "q": "How many three digit odd numbers can be formed from the digits: 1, 2, 3, 4, 5. If it is permitted to use any of the digits more than once.",
+                    "opt": [
+                        "75",
+                        "25",
+                        "15",
+                        "5"
+                    ],
+                    "ans": "75"
+                },
+                {
+                    "q": "Two numbers 24 and 31 of base x and y respectively, are equal in value when converted to base ten. Find the equation connecting x and y.",
+                    "opt": [
+                        "2x = 3(y - 1)",
+                        "4x - y = 1",
+                        "3y + 2x = 3",
+                        "3y = 2(x + 3)"
+                    ],
+                    "ans": "2x = 3(y - 1)"
+                },
+                {
+                    "q": "The electrical resistance R ohms of a wire varies directly as the length L (cm) and inversely as the square root of the diameter d, find the value of d, correct to decimal places when L = 15cm, R = o.13 ohms and k = 1.25 x 10^(-3)",
+                    "opt": [
+                        "0.021",
+                        "0.02",
+                        "0.03",
+                        "0.0208"
+                    ],
+                    "ans": "0.02"
+                },
+                {
+                    "q": "In a survey of 50 newspaper readers, 40 read champion and 30 read guardian, how many read both papers?",
+                    "opt": [
+                        "10",
+                        "5",
+                        "20",
+                        "15"
+                    ],
+                    "ans": "20"
+                },
+                {
+                    "q": "The difference between the length and width of a rectangle is 6cm and the area is 135 centimeter square. What is the length?",
+                    "opt": [
+                        "25cm",
+                        "18cm",
+                        "15cm",
+                        "27cm"
+                    ],
+                    "ans": "15cm"
+                },
+                {
+                    "q": "The bearing of X from Y is 110 degrees. Find the bearing of Y from X.",
+                    "opt": [
+                        "250 degrees",
+                        "290 degrees",
+                        "20 degrees",
+                        "70 degrees"
+                    ],
+                    "ans": "290 degrees"
+                },
+                {
+                    "q": "Find the length of a side of a rhombus whose diagonals are 6cm and 8cm.",
+                    "opt": [
+                        "8cm",
+                        "5cm",
+                        "4cm",
+                        "3cm"
+                    ],
+                    "ans": "5cm"
+                },
+                {
+                    "q": "If three of the exterior angles of an hexagon are each X degrees and each of the other three is (2X) degrees, find X.",
+                    "opt": [
+                        "40 degrees",
+                        "120 degrees",
+                        "60 degrees",
+                        "80 degrees"
+                    ],
+                    "ans": "40 degrees"
+                }
+            ],
+            "5": [
+                {
+                    "q": "If k + 1, 2k -1, 3k + 1 are three consecutive terms of a geometric progression. Find the possible values of the common ratio.",
+                    "opt": [
+                        "0, 8",
+                        "-1, 5/3",
+                        "2, 3",
+                        "1, 2"
+                    ],
+                    "ans": "-1, 5/3"
+                },
+                {
+                    "q": "What must be added to 4x^(2) - 4, to make it a perfect square?",
+                    "opt": [
+                        "1",
+                        "-1",
+                        "1/x^(2)",
+                        "-1/x^(2)"
+                    ],
+                    "ans": "1/x^(2)"
+                },
+                {
+                    "q": "Two fair dice are rolled, what is the probability that both show up the same number of points?",
+                    "opt": [
+                        "1/36",
+                        "1/6",
+                        "1/3",
+                        "7/36"
+                    ],
+                    "ans": "1/6"
+                },
+                {
+                    "q": "The length of a rectangle is twice its width. If the width and length are reduced by 1cm and 2cm respectively, the area will be 15 centimeter square. Find the dimensions of the original rectangle.",
+                    "opt": [
+                        "3.74, 7.48",
+                        "3.73, 7.46",
+                        "3.7, 7.4",
+                        "3.0, 6.0"
+                    ],
+                    "ans": "3.74, 7.48"
+                },
+                {
+                    "q": "If the radius of the earth is 6370km, determine the length of a meridian.",
+                    "opt": [
+                        "40023 km",
+                        "40024 km",
+                        "40025 km",
+                        "40040 km"
+                    ],
+                    "ans": "40040 km"
+                },
+                {
+                    "q": "What is the value of sin(-690 degrees)",
+                    "opt": [
+                        "-1/2",
+                        "1/2",
+                        "1/4",
+                        "3/2"
+                    ],
+                    "ans": "1/2"
+                },
+                {
+                    "q": "Which of the following lines are parallel? L1: 2x + 3y = 5; L2: 4x + 6y = 1; L3: 4x + 3y = 5. ",
+                    "opt": [
+                        "L1 and L2",
+                        "L1 and L3",
+                        "L2 and L3",
+                        "L1, L2 and L3"
+                    ],
+                    "ans": "L1 and L2"
+                },
+                {
+                    "q": "Find the minimum value of the function 2x^(3) - 6x^(2)",
+                    "opt": [
+                        "-2",
+                        "2",
+                        "0",
+                        "-8"
+                    ],
+                    "ans": "-8"
+                },
+                {
+                    "q": "4 people are to participate in a committee meeting. If all the members are to have a handshake with one another without duplication of handshakes, how many handshakes are there in a particular meeting?",
+                    "opt": [
+                        "4",
+                        "5",
+                        "6",
+                        "10"
+                    ],
+                    "ans": "6"
+                },
+                {
+                    "q": "The length in cm of sides of a right angled triangle are x, (x + 2) and (x + 1) where x > 0. find in cm, the length of the hypotenuse",
+                    "opt": [
+                        "4",
+                        "5",
+                        "13",
+                        "17"
+                    ],
+                    "ans": "5"
+                }
+            ]
+        }
+    },
+    "Testing1": {
         "Standard": {
             "1": [
                 {
