@@ -291,20 +291,20 @@
             "displayName": "World Problem"
         },
         {
-            "name": "Testing1",
+            "name": "Testing2",
             "info": "Contains Standard only.",
             "data": [
                 {
                     "id": 1,
                     "name": "Standard",
-                    "info": "This is a test quiz card, might not be functional.",
+                    "info": "This is a test quiz card two (2), might not be functional.",
                     "time": 60
                 }
             ],
-            "color": "#DE3163",
+            "color": "orange",
             "shortName": "Te",
             "author": "SciSurf",
-            "displayName": "Testing 1"
+            "displayName": "Testing 2"
         }
     ],
     "generalCardInfo": [
@@ -2387,7 +2387,7 @@
                 ]
             }
         },
-        "Testing1": {
+        "Testing2": {
             "Standard": {
                 "array": [],
                 "length": 5,
