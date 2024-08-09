@@ -9,7 +9,8 @@
             "shortName": "Cl",
             "levels": "15",
             "author": "SciSurf",
-            "time": 55
+            "time": 55,
+            "profileName": "englishQuizProfile"
         },
         {
             "id": "2",
@@ -20,7 +21,8 @@
             "shortName": "Aj",
             "levels": "15",
             "author": "SciSurf",
-            "time": 50
+            "time": 50,
+            "profileName": "englishQuizProfile"
         },
         {
             "id": "3",
@@ -31,7 +33,8 @@
             "shortName": "Te",
             "levels": "15",
             "author": "SciSurf",
-            "time": 50
+            "time": 50,
+            "profileName": "englishQuizProfile"
         },
         {
             "id": "4",
@@ -42,7 +45,8 @@
             "shortName": "Sy",
             "levels": "15",
             "author": "SciSurf",
-            "time": 50
+            "time": 50,
+            "profileName": "englishQuizProfile"
         },
         {
             "id": "5",
@@ -53,7 +57,8 @@
             "shortName": "Ve",
             "levels": "15",
             "author": "SciSurf",
-            "time": 50
+            "time": 50,
+            "profileName": "englishQuizProfile"
         },
         {
             "id": "6",
@@ -64,7 +69,8 @@
             "shortName": "Ar",
             "levels": "15",
             "author": "SciSurf",
-            "time": 50
+            "time": 50,
+            "profileName": "englishQuizProfile"
         },
         {
             "id": "7",
@@ -75,7 +81,8 @@
             "shortName": "No",
             "levels": "15",
             "author": "SciSurf",
-            "time": 50
+            "time": 50,
+            "profileName": "englishQuizProfile"
         },
         {
             "id": "8",
@@ -86,7 +93,8 @@
             "shortName": "Sp",
             "levels": "15",
             "author": "SciSurf",
-            "time": 50
+            "time": 50,
+            "profileName": "englishQuizProfile"
         },
         {
             "id": "9",
@@ -97,7 +105,8 @@
             "shortName": "Pr",
             "levels": "15",
             "author": "SciSurf",
-            "time": 50
+            "time": 50,
+            "profileName": "englishQuizProfile"
         },
         {
             "id": "10",
@@ -108,7 +117,8 @@
             "shortName": "Id",
             "levels": "15",
             "author": "SciSurf",
-            "time": 55
+            "time": 55,
+            "profileName": "englishQuizProfile"
         }
     ],
     "mathCardInfo": [
@@ -332,7 +342,8 @@
             "shortName": "Fun",
             "levels": "6",
             "author": "SciSurf",
-            "time": 40
+            "time": 40,
+            "profileName": "generalQuizProfile"
         }
     ],
     "englishQuizProfile": {
