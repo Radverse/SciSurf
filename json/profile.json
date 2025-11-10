@@ -4,7 +4,7 @@
             "id": "1",
             "name": "Classification, Possessives & Collocation",
             "cardUrl": "s-card-cla",
-            "color": "#02367B",
+            "color": "#2A88F5",
             "identifier": "cla",
             "shortName": "Cl",
             "levels": "15",
@@ -16,7 +16,7 @@
             "id": "2",
             "name": "Adjectives & Adverbs",
             "cardUrl": "s-card-adv",
-            "color": "#006CA5",
+            "color": "#1D5EA8",
             "identifier": "adv",
             "shortName": "Aj",
             "levels": "15",
@@ -28,7 +28,7 @@
             "id": "3",
             "name": "Tenses",
             "cardUrl": "s-card-ten",
-            "color": "#0496C7",
+            "color": "#174B86",
             "identifier": "ten",
             "shortName": "Te",
             "levels": "15",
@@ -40,7 +40,7 @@
             "id": "4",
             "name": "Synonyms & Antonyms",
             "cardUrl": "s-card-syn",
-            "color": "#04BADE",
+            "color": "#113864",
             "identifier": "syn",
             "shortName": "Sy",
             "levels": "15",
@@ -52,7 +52,7 @@
             "id": "5",
             "name": "Verbs",
             "cardUrl": "s-card-ver1",
-            "color": "#1D2E28",
+            "color": "#CC993D",
             "identifier": "ver",
             "shortName": "Ve",
             "levels": "15",
@@ -64,7 +64,7 @@
             "id": "6",
             "name": "Articles, Prepositions & Conjunction",
             "cardUrl": "s-card-art",
-            "color": "#18392B",
+            "color": "#4B6077",
             "identifier": "art",
             "shortName": "Ar",
             "levels": "15",
@@ -76,7 +76,7 @@
             "id": "7",
             "name": "Noun",
             "cardUrl": "s-card-nou",
-            "color": "#14452F",
+            "color": "#4D473D",
             "identifier": "nou",
             "shortName": "No",
             "levels": "15",
@@ -2592,4 +2592,5 @@
             "description": "This is a simple Bio description"
         }
     ]
+
 }
